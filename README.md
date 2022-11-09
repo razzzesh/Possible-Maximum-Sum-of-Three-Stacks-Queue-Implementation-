@@ -20,8 +20,6 @@ Find :
 Possible equal maximum sum of the stacks.
 
 
-Constraint :
-Removal is permitted from top of stack.
 
 
 Code:
