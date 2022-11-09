@@ -5,6 +5,13 @@ Name : Rajesh Thakare
 Sec : A
 
 Roll : 54
+
+
+
+## Problem Statement : Possible Maximum Sum of Three Stacks: (Queue Implementation)
+
+Finding the Maximum sum of three Stacks using queue data structure .
+
 Given :
 Three stacks of the positive numbers.
 
@@ -16,11 +23,6 @@ Possible equal maximum sum of the stacks.
 Constraint :
 Removal is permitted from top of stack.
 
-
-
-## Problem Statement : Possible Maximum Sum of Three Stacks: (Queue Implementation)
-
-Finding the Maximum sum of three Stacks using queue data structure .
 
 Code:
 ```
