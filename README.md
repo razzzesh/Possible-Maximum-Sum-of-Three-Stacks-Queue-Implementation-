@@ -19,6 +19,10 @@ Three stacks of the positive numbers.
 Find :
 Possible equal maximum sum of the stacks.
 
+Constraint :
+Removal is permitted from top of stack.
+
+
 
 
 
@@ -149,6 +153,7 @@ Possible Equal Maximum Sum : 7
 Explanation :
 
 Data structure used: Queue
+
 Three queues q1,q2,q3 to store the elements.
 s1,s2,s3 to store respective sums of q1,q2 and q3 respectively.
 
