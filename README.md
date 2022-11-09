@@ -5,6 +5,17 @@ Name : Rajesh Thakare
 Sec : A
 
 Roll : 54
+Given :
+Three stacks of the positive numbers.
+
+
+Find :
+Possible equal maximum sum of the stacks.
+
+
+Constraint :
+Removal is permitted from top of stack.
+
 
 
 ## Problem Statement : Possible Maximum Sum of Three Stacks: (Queue Implementation)
