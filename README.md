@@ -88,30 +88,50 @@ class PossibleEqualMaxSum {
 
 
 Output of the Code  :
+
 Possible Equal Maximum Sum:  8
 
 
 TEST CASES
+
 INPUT 1 :
+
 Queue 1 : 6 1 0 1
+
 Queue 2 : 6 1 1 
+
 Queue 3 : 5 2 8
+
 OUTPUT 1  :
+
 Possible Equal Maximum Sum : 8
+
 
 INPUT 2 :
+
 Queue 1 : 8 5 3
+
 Queue 2 : 6 9 4 2 2
+
 Queue 3 : 3 2 1 2
+
 OUTPUT 2  :
+
 Possible Equal Maximum Sum : 8
 
+
 INPUT 3 :
+
 Queue 1 : 9 1 4 2
+
 Queue 2 : 3 6 1
+
 Queue 3 : 1 2 5
+
 OUTPUT 3 :
+
 Possible Equal Maximum Sum : 7
+
 
 
 
